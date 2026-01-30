@@ -1,0 +1,7 @@
+{
+  "name": "BodaNearMe",
+  "description": "Premium Boda Boda rider directory with integrated payments and auth.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
